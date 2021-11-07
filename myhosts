@@ -9,7 +9,7 @@
 172.31.22.179
 
 
-myubuntuserer=apache2
+myubuntuserver=apache2
 myredhatserver=httpd
 
 

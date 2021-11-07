@@ -4,7 +4,7 @@
   tasks: 
   - name: install webserver
     apt: 
-      name: "{{myubuntuserer}}"
+      name: "{{myubuntuserver}}"
       state: present
     when: ansible_os_family=="Debian" 
 
