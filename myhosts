@@ -1,2 +1,17 @@
+[webservers]
 172.31.26.225
 172.31.22.179
+
+[ubuntuserver]
+172.31.26.225
+
+[amazonserver]
+172.31.22.179
+
+
+myubuntuserer= apache2
+myredhatserver= httpd
+
+
+
+
